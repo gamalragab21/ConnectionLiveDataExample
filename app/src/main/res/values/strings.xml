@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectionLiveDataExample</string>
+    <string name="no_Internet">No Internet</string>
+    <string name="Check_your_internet_or_data_status">Check your internet or data status</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cancel">Cance;</string>
+</resources>
